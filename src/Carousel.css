@@ -1,0 +1,19 @@
+ul li button::before {
+  font-size: 10px;
+  color: white;
+}
+
+li.slick-active button::before {
+  color: red;
+}
+
+.slick-dots {
+  bottom: 31px;
+  left: -231px;
+}
+
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  .slick-dots {
+    left: -87px;
+  }
+}
