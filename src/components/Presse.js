@@ -3,7 +3,7 @@ import tuple from "../img/Tuple_icon.png";
 import mirage from "../img/Mirage_icon.png";
 import statickit from "../img/Statickit_icon.png";
 import transistor from "../img/Transistor_icon.png";
-import workstation from "../img/Workstation_icon.png";
+import workstation from "../img/Workstation_icon.svg";
 import statamic from "../img/Statamic_icon.png";
 
 const Presse = () => {

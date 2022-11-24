@@ -3,7 +3,7 @@ import tuple from "../img/logos/Tuple.png";
 import mirage from "../img/logos/Mirage.png";
 import statickit from "../img/logos/Statickit.png";
 import transistor from "../img/logos/Transistor.png";
-import workstation from "../img/logos/Workstation.png";
+import workstation from "../img/logos/Workstation.svg";
 import statamic from "../img/logos/Statamic.png";
 import blade from "../img/logos/blade.png";
 import tailwind from "../img/logos/tailwind.png";

@@ -1,6 +1,6 @@
 import React from "react";
-import tuple from "../img/tuple-logo.png";
-import workation from "../img/workcation-logo.png";
+import tuple from "../img/tuple-logo.svg";
+import workation from "../img/Workstation_icon.svg";
 import statickit from "../img/statickit-logo.png";
 
 const Hero = () => {

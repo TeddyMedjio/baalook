@@ -14,6 +14,6 @@ li.slick-active button::before {
 
 @media screen and (min-width: 480px) and (max-width: 768px) {
   .slick-dots {
-    left: -87px;
+    left: -72px;
   }
 }
